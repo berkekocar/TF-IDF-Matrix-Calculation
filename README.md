@@ -60,12 +60,4 @@ METHODOLOGY
  
   Description of the class:
  	This class solves the Task5 part, I could only write the query parser and analyser 	classes however i couldn't executed the code.
- 
- 	
- 
- 
- 
- 
- /
-
 
